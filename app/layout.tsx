@@ -8,8 +8,8 @@ import ActiveStatus from './components/ActiveStatus'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Messenger X',
-  description: 'Messenger X',
+  title: 'Whisper - Chat with Friends 1:1 or in groups',
+  description: 'Whisper, a web application that allows you to chat with friends 1:1 or in groups.',
 }
 
 export default function RootLayout({
